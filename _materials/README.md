@@ -1,5 +1,5 @@
 # Read-only Program Repositories
-**Important**: DO NOT make any changes to the code in these repos or you might get a conflict when you `pull` fresh updates. Instead, copy files and code snippets into your own working directory (i.e. `in-class`).
+**Important**: DO NOT make any changes to the code in these repos or you might get a merge conflict when you `pull` new updates. Instead, copy files and code snippets into your own working directory (i.e. your own `in-class` or `projects` directory).
 
 ## Terms
 Read-only Repo
@@ -24,12 +24,12 @@ This program stores course materials in multiple read-only repositories that you
 - [instructor in-class](https://github.com/sait-wbdv/in-class): Code created during your intructor's live-coding sessions, separated by day. This code will often be messy and borken. Use at your own risk.
 - [winter-2021](https://github.com/sait-wbdv/winter-2021): The program website. This may be the least important to `clone`, unless you're interested in learning Jekyll
 
-There are others later on in the program.
+There will be more later on in the program.
 
 ## 1. Cloning 3rd-party repositores
 Git makes it easy to `clone` (i.e. copy) any public repository to your machine.
 
-1. Using the terminal, navigate to this directory.
+1. Using the terminal, navigate to this `_materials` directory.
 2. In a browser, navigate to one of the above repositories you would like to clone. For example, [sample-code](https://github.com/sait-wbdv/sample-code).
 3. Copy the clone URL listed under the green `Code` menu. Recommended: use the HTTPS link instead of SSH.
 4. Clone the repo to your machine by entering the following terminal command:
