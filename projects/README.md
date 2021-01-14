@@ -1,0 +1,2 @@
+# Side Projects
+A directory to store your project repos. Maybe start with your [GitHub Pages site](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/about-github-pages#types-of-github-pages-sites)!
